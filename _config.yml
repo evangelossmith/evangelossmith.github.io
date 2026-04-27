@@ -26,9 +26,9 @@ author:
   avatar           : "2025_11_21_lighter_Google-Scholar.JPG"
   name             : "Evangelos Smith"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Senior Scientist at Schrödinger, Inc."
   location         : "New York"
-  employer         : "Schrödinger"
+  employer         : # "Schrödinger"
   uri              : # URL
   email            : "evangelos_smith@outlook.com" 
 
