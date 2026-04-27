@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. **Selective Hydrogenation of Furfural Acetone over a Cu Catalyst: Combined Theoretical and Experimental Study**. Michael Rebarchik&Dagger;, <ins>**Evangelos Smith&Dagger**</ins>, Hochan Chang, James A. Dumesic, Manos Mavrikakis. *ACS Catal.* XX, XXX (2025). [DOI](https://pubs.acs.org/doi/full/10.1021/acscatal.4c07231)
+1. **Selective Hydrogenation of Furfural Acetone over a Cu Catalyst: Combined Theoretical and Experimental Study**. Michael Rebarchik&Dagger;, <ins>**Evangelos Smith&Dagger;**</ins>, Hochan Chang, James A. Dumesic, Manos Mavrikakis. *ACS Catal.* XX, XXX (2025). [DOI](https://pubs.acs.org/doi/full/10.1021/acscatal.4c07231)
 
 1. **CO–induced Roughening of Cu(111): Formation and Detection of Reactive Nanoclusters on Metal Surfaces**. Konstantinos G. Papanikolaou, Lang Xu, <ins>**Evangelos Smith**</ins>, Manos Mavrikakis. *Surf. Sci.* XX, XXX (2025). [DOI](https://www.sciencedirect.com/science/article/pii/S0039602824002164)
 
