@@ -23,7 +23,7 @@ repository               : "evangelossmith/evangelossmith.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "2025_11_21_lighter_Google-Scholar.JPG"
+  avatar           : "2025_11_21_lighter_Google-Scholar.jpg"
   name             : "Evangelos Smith"
   pronouns         : # example: "she/her"  
   bio              : "Senior Scientist at Schrödinger, Inc."
