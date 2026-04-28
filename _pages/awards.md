@@ -11,4 +11,4 @@ author_profile: true
    - **Bird–Stewart–Lightfoot Wisconsin Distinguished Graduate Fellowship** from UW–Madison recognizing graduate students for research achievements (Dec. 2024)
    - **4<sup>th</sup> *Surface Science* Young Investigator Best Paper Award** for “CO–induced roughening of Cu(111): Formation and detection of reactive nanoclusters on metal surfaces” (Oct. 2024)
    - (3) **Roland A. Ragatz Teaching Assistant Awards** from UW–Madison recognizing excellence in undergraduate instruction (Dec. 2022-Dec 2023)
-   - **INEOS Olefins \& Polymers Senior Plant Design Project Award** for a 2<sup>nd</sup> place submission for a proposed naptha reforming facility (Aug. 2020)
+   - **INEOS Olefins & Polymers Senior Plant Design Project Award** for a 2<sup>nd</sup> place submission for a proposed naptha reforming facility (Aug. 2020)
