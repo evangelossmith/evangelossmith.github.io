@@ -293,6 +293,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+    # awards
+  - scope:
+      path: ""
+      type: awards
+    values:
+      layout: awards
+      author_profile: true
+      share: true
 
 
 # Sass/SCSS
