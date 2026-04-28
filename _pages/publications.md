@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. **Probing NO<sub>2</sub> Reactivity on Coinage Metal Surfaces through Liquid Crystal Orientational Responses**. <ins>**Evangelos Smith**</ins>, Huaizhe Yu, Hanyu Zhang, Trenton J. Wolter, Alvaro Posada-Borbón, Robert J. Twieg, Nicholas L. Abbott, Manos Mavrikakis. Submitted to *J. Phys. Chem. C.* (2026).
+1. **Probing NO<sub>2</sub> Reactivity on Coinage Metal Surfaces through Liquid Crystal Orientational Responses**. <br><ins>**Evangelos Smith**</ins>, Huaizhe Yu, Hanyu Zhang, Trenton J. Wolter, Alvaro Posada-Borbón, Robert J. Twieg, Nicholas L. Abbott, Manos Mavrikakis. Submitted to *J. Phys. Chem. C.* (2026).
 
 2. **Perimeter Power: Unveiling the Role of Ni-TiO<sub>2</sub> Interface Sites in Enhancing Acetic Acid Ketonization Catalysis**. Petter Tingelstad, <ins>**Evangelos Smith**</ins>, Nora Corneliussen, Pio Gramazio, Robert Peters, Kishore Rajendran, Albert miró i Rovira, Tomasz Skrzydlo, Wakshum Tucho, Manos Mavrikakis, De Chen. [Preprint](https://www.researchsquare.com/article/rs-7809779/v1)
 
