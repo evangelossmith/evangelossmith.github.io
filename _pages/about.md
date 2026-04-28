@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Add some bio here.
+Researcher with five years of combined computational and experimental experience in heterogeneous thermocatalysis, specializing in catalyst design, reaction kinetics studies, and performance optimization for transformations within the chemicals industry.
 
 Biography
 ======
