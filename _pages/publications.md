@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. **Probing NO<sub>2</sub> Reactivity on Coinage Metal Surfaces through Liquid Crystal Orientational Responses**. <br><ins>**Evangelos Smith**</ins>, Huaizhe Yu, Hanyu Zhang, Trenton J. Wolter, Alvaro Posada-Borbón, Robert J. Twieg, Nicholas L. Abbott, Manos Mavrikakis. *J. Phys. Chem. C.* **130**, 9048 (2026). [DOI]([https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/ceur.202500030](https://pubs.acs.org/jpccck/article/130/26/9048/5167043/Probing-NO2-Reactivity-on-Coinage-Metal-Surfaces))
+1. **Probing NO<sub>2</sub> Reactivity on Coinage Metal Surfaces through Liquid Crystal Orientational Responses**. <br><ins>**Evangelos Smith**</ins>, Huaizhe Yu, Hanyu Zhang, Trenton J. Wolter, Alvaro Posada-Borbón, Robert J. Twieg, Nicholas L. Abbott, Manos Mavrikakis. *J. Phys. Chem. C.* **130**, 9048 (2026). [DOI](https://pubs.acs.org/jpccck/article/130/26/9048/5167043/Probing-NO2-Reactivity-on-Coinage-Metal-Surfaces)
 
 2. **Perimeter Power: Unveiling the Role of Ni-TiO<sub>2</sub> Interface Sites in Enhancing Acetic Acid Ketonization Catalysis**. <br>Petter Tingelstad, <ins>**Evangelos Smith**</ins>, Nora Corneliussen, Pio Gramazio, Robert Peters, Kishore Rajendran, Albert miró i Rovira, Tomasz Skrzydlo, Wakshum Tucho, Manos Mavrikakis, De Chen. [Preprint](https://www.researchsquare.com/article/rs-7809779/v1)
 
